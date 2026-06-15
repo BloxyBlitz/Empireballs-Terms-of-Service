@@ -68,7 +68,7 @@ Cross-trading is strictly forbidden for any user with no exception and will be s
 - Empireballs collects minimal user data necessary for its functionality. We do not share this data with third parties.
 - Do not share personal information, including passwords, addresses, or financial details, through the bot.
 
-A more detailed privacy policy explaining what data is collected is available at the following link: https://docs.google.com/document/d/1XnoxwB9exs4nxnTNRGjrBcxUDw2Ia_kldHm9VH1IWPc/edit?usp=sharing
+A more detailed privacy policy explaining what data is collected is available at the following link: https://github.com/BloxyBlitz/Empireballs-Privacy-Policy/blob/main/README.md
 
 6. Moderation:
 Authority of Bot Administrators and Moderators
