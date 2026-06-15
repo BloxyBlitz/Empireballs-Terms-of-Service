@@ -111,7 +111,7 @@ By using Empireballs, you agree to abide by these terms and rules. Failure to co
 
 Contesting a sanction
 
-If you want a re-evaluation of your case, you may do so by submitting a ticket in the Discord server: https://discord.gg/jYRUSRcWgF (#⁠tickets channel) or sending an email to contact to mongoliandex@gmail.com. You must follow these rules:
+If you want a re-evaluation of your case, you may do so by submitting a ticket in the Discord server: https://discord.gg/jYRUSRcWgF (#⁠tickets channel) or sending an email to contact to empireballsreboot@gmail.com. You must follow these rules:
 
 - Do not send an appeal twice
 - Do not send an appeal for someone else, only the concerned user may do so
