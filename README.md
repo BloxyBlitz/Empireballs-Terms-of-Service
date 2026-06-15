@@ -125,7 +125,7 @@ Contact
 You may contact us using the following means:
 
 - The Empireballs Discord Server https://discord.gg/jYRUSRcWgF through tickets (#tickets channel)
-- Sending mail to mongoliandex@gmail.com
+- Sending mail to empireballsreboot@gmail.com
 
 ----
 
