@@ -89,7 +89,7 @@ Discretion of Enforcement
 The severity of actions taken will be determined by the bot administrators and moderators based on the nature and impact of the violation.
 
 7. Changes to Terms and Rules:
-- The terms of service and rules might be updated at any time. Users will be notified of changes through the Discord server: https://discord.gg/jaKa3SUqUF's announcements channels, and continued use of the bot will imply agreement to the modified terms.
+- The terms of service and rules might be updated at any time. Users will be notified of changes through the Discord server: https://discord.gg/jaKa3SUqUF 's announcements channels, and continued use of the bot will imply agreement to the modified terms.
 
 8. Liability:
 - The Empireballs Team is not responsible for any loss, damage, or inconvenience caused by the use of the bot. Use the bot at your own risk.
