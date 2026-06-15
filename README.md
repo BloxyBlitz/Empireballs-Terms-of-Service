@@ -89,7 +89,7 @@ Discretion of Enforcement
 The severity of actions taken will be determined by the bot administrators and moderators based on the nature and impact of the violation.
 
 7. Changes to Terms and Rules:
-- The terms of service and rules might be updated at any time. Users will be notified of changes through the Discord server: https://discord.gg/jaKa3SUqUF 's announcements channels, and continued use of the bot will imply agreement to the modified terms.
+- The terms of service and rules might be updated at any time. Users will be notified of changes through the Discord server: https://discord.gg/jyWhW8mKVY 's announcements channels, and continued use of the bot will imply agreement to the modified terms.
 
 8. Liability:
 - The Empireballs Team is not responsible for any loss, damage, or inconvenience caused by the use of the bot. Use the bot at your own risk.
@@ -111,7 +111,7 @@ By using Empireballs, you agree to abide by these terms and rules. Failure to co
 
 Contesting a sanction
 
-If you want a re-evaluation of your case, you may do so by submitting a ticket in the Discord server: https://discord.gg/jYRUSRcWgF (#⁠tickets channel) or sending an email to contact to empireballsreboot@gmail.com. You must follow these rules:
+If you want a re-evaluation of your case, you may do so by submitting a ticket in the Discord server: https://discord.gg/jyWhW8mKVY (#⁠tickets channel) or sending an email to contact to empireballsreboot@gmail.com. You must follow these rules:
 
 - Do not send an appeal twice
 - Do not send an appeal for someone else, only the concerned user may do so
@@ -124,7 +124,7 @@ Contact
 
 You may contact us using the following means:
 
-- The Empireballs Discord Server https://discord.gg/jYRUSRcWgF through tickets (#tickets channel)
+- The Empireballs Discord Server https://discord.gg/jyWhW8mKVY through tickets (#tickets channel)
 - Sending mail to empireballsreboot@gmail.com
 
 ----
